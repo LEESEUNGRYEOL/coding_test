@@ -1,4 +1,4 @@
-package Heap.p42627;
+package heap.p42627;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
