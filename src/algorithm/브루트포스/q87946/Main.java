@@ -1,4 +1,4 @@
-package algorithm.bruteForce.q87946;
+package algorithm.브루트포스.q87946;
 
 
 

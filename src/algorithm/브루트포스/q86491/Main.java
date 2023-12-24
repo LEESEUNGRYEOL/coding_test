@@ -1,4 +1,4 @@
-package algorithm.bruteForce.q86491;
+package algorithm.브루트포스.q86491;
 
 class Solution {
     public int solution(int[][] sizes) {
